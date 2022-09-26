@@ -1,0 +1,6 @@
+Bill breakdown 
+cofee:                    .. $345 
+67:                       .. $67 
+Cake:                     .. $450 
+tip:                      ...$0.00 
+total:                    ...$862.00 

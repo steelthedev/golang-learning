@@ -1,0 +1,5 @@
+Bill breakdown 
+cake:                     .. $20 
+10:                       .. $10 
+tip:                      ...$0.00 
+total:                    ...$30.00 
